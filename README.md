@@ -12,7 +12,7 @@ J’ai à cœur de me former perpétuellement sur les métiers du web, mais auss
 
 En parallèle de mon parcours de production, j’ai toujours été intervenant ou salarié dans des centres de formation ou des écoles supérieures.
 
-Récemment monté en compétence en developpement, après avoir suivi la formation **Développeur web Full Stack JS** chez O'Clock, et spécialisé en React JS, je mets à votre disposition un savoir-faire et une vision globale de la gestion d'un projet web !
+i'm JS Lover ❤
 
 
 
